@@ -16,3 +16,5 @@
 
 - Joel David Reyes Sanchez
 > (202010020435)
+
+La BD se debe llamar "examen" para su correcto funcionamiento
